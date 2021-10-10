@@ -13,6 +13,6 @@
   ##
  
 <div> 
-  ![Snake](https://github.com/joaopedrozand/joaopedrozand/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/joaopedrozand/joaopedrozand/blob/output/github-contribution-grid-snake.svg">
  
 </div>
